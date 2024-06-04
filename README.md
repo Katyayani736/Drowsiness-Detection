@@ -36,7 +36,5 @@ Real-Time Performance: Ensuring minimal lag in processing video frames is crucia
 Alert Systems: Consider implementing audio or visual alerts to warn users when drowsiness is detected.
 
 Resources: There are many online resources available to help you with your project. Here are a few examples:
-
 GitHub Repositories: Several open-source projects on GitHub showcase drowsiness detection using YOLOv5 and OpenCV.
-
 YouTube Tutorials: Search for tutorials on drowsiness detection with YOLOv5 to find video guides that walk you through the process.
